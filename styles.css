@@ -1,0 +1,49 @@
+.center {
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+.left {
+    text-align: left;
+}
+
+.list {
+    padding: 50px;
+    border: 25px;
+    margin: 300px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.page {
+    background-color: antiquewhite;
+}
+
+#title-1 {
+    font-size: 30px;
+    box-sizing: border-box;
+    border: 5px solid rgb(206, 94, 94);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    width: 200px;
+}
+
+#image-1 {
+    border-radius: 15px;
+    background: #ad2121;
+    padding: 20px;
+}
